@@ -1,5 +1,15 @@
+*{
+    margin: 0 auto;
+}
+
 .container{
     margin: 0 auto;
+}
+
+.sub-container{
+    margin: 0 auto;
+    margin-top: 3rem;
+    width: 10%;
 }
 
 img{
