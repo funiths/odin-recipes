@@ -1,3 +1,7 @@
+html{
+    background-color: #155263; 
+}
+
 img{
     width: 300px;
     height: auto;
@@ -6,3 +10,4 @@ img{
 ul, p, ol{
     font-size: 20px;
 }
+
