@@ -24,6 +24,7 @@ a{
     margin-bottom: 0.5em;
     border: 1px solid black;
     text-align: center;
+    padding-top: 0.5em;
 }
 
 a:hover{
