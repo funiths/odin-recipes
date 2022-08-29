@@ -3,6 +3,6 @@ img{
     height: auto;
 }
 
-ul{
+ul, p, ol{
     font-size: 20px;
 }
